@@ -1,0 +1,4 @@
+display : flex - keela irukardha side la kondu varadhu
+align-items : center - choose paniruka tag la ulla ellam center ah varum
+justify-content: space-between - buttons moved to the right side, logo in the left side
+padding: 10px 0; - 10px(from top n bottom) 0(left n right)
